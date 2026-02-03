@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Duplicate Finder",
+  "description": "An intelligent duplicate question detection tool powered by Gemini AI. It identifies semantically similar questions even when phrased differently, helping maintain clean Q&A databases.",
+  "requestFramePermissions": []
+}
